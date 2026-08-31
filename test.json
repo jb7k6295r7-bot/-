@@ -1,0 +1,6 @@
+{
+  "purpose": "連線測試用。Claude 的凌晨排程會在無人值守下讀這個檔案，驗證固定的 raw 網址能不能通過核可。",
+  "ok": true,
+  "marker": "TW-STOCK-DATA-PROBE-OK",
+  "note": "第一次 Actions 跑完之後，這個資料夾會多出 6 檔個股的 json、market.json 與 _manifest.json。"
+}

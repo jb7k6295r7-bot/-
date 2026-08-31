@@ -1,0 +1,59 @@
+{
+  "generated_at": "2026-08-31T16:09:23+08:00",
+  "target_trading_day": "2026-08-31",
+  "stocks": {
+    "7879": {
+      "price_rows": 143,
+      "price_date_max": "2026-08-28",
+      "inst_rows": 201,
+      "inst_date_max": "2026-08-05",
+      "errors": null
+    },
+    "8289": {
+      "price_rows": 402,
+      "price_date_max": "2026-08-31",
+      "inst_rows": 795,
+      "inst_date_max": "2026-08-31",
+      "errors": null
+    },
+    "2609": {
+      "price_rows": 402,
+      "price_date_max": "2026-08-31",
+      "inst_rows": 790,
+      "inst_date_max": "2026-08-28",
+      "errors": null
+    },
+    "6209": {
+      "price_rows": 402,
+      "price_date_max": "2026-08-31",
+      "inst_rows": 790,
+      "inst_date_max": "2026-08-28",
+      "errors": null
+    },
+    "3017": {
+      "price_rows": 402,
+      "price_date_max": "2026-08-31",
+      "inst_rows": 790,
+      "inst_date_max": "2026-08-28",
+      "errors": null
+    },
+    "8996": {
+      "price_rows": 402,
+      "price_date_max": "2026-08-31",
+      "inst_rows": 790,
+      "inst_date_max": "2026-08-28",
+      "errors": null
+    }
+  },
+  "market": {
+    "ok": [
+      "index",
+      "summary",
+      "bfi82u"
+    ],
+    "errors": {
+      "t86": "stat=很抱歉，沒有符合條件的資料!"
+    }
+  },
+  "note": "date_max 才是真正的資料基準日；target_trading_day 只是查詢用的猜測值。"
+}
